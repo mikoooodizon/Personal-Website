@@ -65,3 +65,10 @@ body {
     background-color: #888c8a;
     background-image: url("https://www.transparenttextures.com/patterns/light-aluminum.png");
 }
+
+footer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px 40%;
+}
