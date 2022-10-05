@@ -64,6 +64,8 @@ button:hover {
 body {
     background-color: #888c8a;
     background-image: url("https://www.transparenttextures.com/patterns/light-aluminum.png");
+    overflow-y: hidden; /*// hide vertical*/
+    overflow-x: hidden; /*// hide horizontal, this is a cool thing to learn*/
 }
 
 footer {
