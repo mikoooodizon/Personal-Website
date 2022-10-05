@@ -21,7 +21,8 @@ header {
     display: flex;
     justify-content: flex-end;
     align-items: center;
-    padding: 30px 10%;
+    padding: 7.5px 5%;
+    background-color: burlywood;
 }
 
 .logo {
@@ -66,6 +67,13 @@ body {
     background-image: url("https://www.transparenttextures.com/patterns/light-aluminum.png");
    /* overflow-y: hidden; TO ADD LATER*hide vertical
     overflow-x: hidden; /* hide horizontal, this is a cool thing to learn*/ 
+}
+
+.meat {
+    align-items: center;
+    font-family:'Courier New', Courier, monospace;
+    margin: 3px 15%;
+
 }
 
 footer {
